@@ -1,0 +1,10 @@
+@import "./color.scss";
+
+$primary: $oc-blue-7;
+$secondary: $oc-gray-7;
+$info: $oc-blue-5;
+$success: $oc-cyan-7;
+$warning: $oc-orange-7;
+$danger: $oc-red-7;
+
+@import "node_modules/bootstrap/scss/bootstrap";

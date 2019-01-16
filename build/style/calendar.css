@@ -1,0 +1,13 @@
+.overflow-scroll {
+  overflow: scroll; }
+
+.sticky-left {
+  position: sticky;
+  left: 0; }
+
+.unset-zindex {
+  z-index: 1; }
+
+.fixed-corner-title {
+  background: inherit;
+  height: fit-content; }

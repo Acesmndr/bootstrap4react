@@ -1,0 +1,5 @@
+.dropright {
+  display: inline-block; }
+
+.dropdown:hover > div {
+  display: block; }

@@ -1,0 +1,5 @@
+node_modules/
+yarn-error.log
+styleguide/
+.snapguidist
+.DS_Store

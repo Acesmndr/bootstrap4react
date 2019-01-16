@@ -1,0 +1,15 @@
+.overflow-scroll {
+  overflow: scroll;
+}
+
+.sticky-left {
+  position: sticky;
+  left: 0;
+  &.sticky-top {
+    z-index: 2;
+  }
+}
+
+.unset-zindex {
+  z-index: 1;
+}

@@ -1,0 +1,21 @@
+{
+  "env": {
+    "development": {
+      "presets": [
+        "env",
+        "react"
+      ],
+      "plugins": [
+        "transform-object-rest-spread",
+        [
+          "transform-rename-import",
+          { 
+            "original": "^(.+?)\\.scss$",
+            "replacement": "$1.css"
+          }
+        ]
+      ]
+    }
+  }
+}
+
