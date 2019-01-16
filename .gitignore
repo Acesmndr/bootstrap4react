@@ -1,5 +1,6 @@
 node_modules/
 yarn-error.log
 styleguide/
+build/
 .snapguidist
 .DS_Store
